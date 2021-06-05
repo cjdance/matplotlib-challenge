@@ -14,3 +14,8 @@ Repository for the matplotlib homework in Week 5 of Monash Bootcamp
 * Required to designate only the value inside of it when using later or got an error of comparing series with different lengths
 * Resolved after determining location in output, also created print function to programmatically display duplicate mouse ID's from the dat in case there had been more than one
 
+### Remembering notation for .aggregrate function
+
+* Could not find in weekly lessons
+* Used Google and Stack Overflow to find details
+* Performed a few debug runs to get table values correct
