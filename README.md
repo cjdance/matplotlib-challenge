@@ -10,7 +10,7 @@ This homework required me to examine a real-world data-set using Python, the Pan
 
 This dataset looked at a range of mice who were being treated with differtent drug regimens to observe the impact it had on tumor size within the mice.
 
-We were requrired to combine two datasets to create one large table of data, then clean it of any duplicate mice and finally perform outputs from this dataset.
+We were required to combine two datasets to create one large table of data, then clean it of any duplicate mice and finally perform outputs from this dataset.
 
 These outputs included a range of summary statistics, as well as bar, line, scatter, pie and box plots with which to analyse the data and draw conclusions.
 
